@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include "Audio.h"
 
-const char* ssid = "WIFE_NAME";
-const char* password = "PASSWORD";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 #define I2S_DOUT  9
 #define I2S_BCLK  10
