@@ -147,3 +147,12 @@ These messages help with debugging microphone initialization, noise thresholds, 
 This project explores embedded audio processing with the ESP32-S3, digital microphones, I2S communication, PSRAM memory management, voice activity detection, and digital audio playback.
 
 It provides a foundation for more advanced projects such as voice-controlled robots, AI assistants, and interactive embedded systems.
+
+## Demo
+
+Watch the ESP32-S3 Wi-Fi Audio Player in action:
+
+[▶ Watch the project demonstration on YouTube Shorts](https://www.youtube.com/shorts/grWE4HYj9J0)
+
+The video demonstrates the project running on real hardware.
+
