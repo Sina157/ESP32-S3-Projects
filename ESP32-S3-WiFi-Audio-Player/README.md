@@ -102,6 +102,10 @@ The goal of this project is to gain practical experience with Wi-Fi networking, 
 
 It demonstrates how a microcontroller can retrieve digital audio from another device on the network and play it through external audio hardware.
 
-## Security Note
+## Demo
 
-Avoid publishing real Wi-Fi credentials in a public repository. Use placeholder values in the source code and configure your own credentials locally.
+Watch the ESP32-S3 Wi-Fi Audio Player in action:
+
+[▶ Watch the project demonstration on YouTube Shorts](https://www.youtube.com/shorts/8rb5SQG5J4Q)
+
+The video demonstrates the project running on real hardware.
