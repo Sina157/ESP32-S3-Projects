@@ -23,5 +23,5 @@ The ESP32-S3 provides Wi-Fi connectivity, I2S peripherals, and support for exter
 - **Memory Management:** Exploring RAM and PSRAM allocation for audio buffers and processing.
 - **Embedded Audio Processing:** Investigating audio capture, playback, and streaming.
 
-
+![ESP8266 NodeMCU Development Board](61w5c+KenUL._AC_UF1000,1000_QL80_.jpg)
 
